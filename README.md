@@ -1,4 +1,4 @@
-NRC_Summer_Research
+NRC Summer Research 2003-2004
 ===================
 
-Fortran codes for the time propagation of Gauss-Hermite Wavepackets.
+Fortran codes for the time propagation of Wavepackets.
